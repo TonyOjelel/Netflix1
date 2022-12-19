@@ -1,0 +1,76 @@
+body {
+    background-image: url(assets/netflix.jpg);
+    color: white;
+    direction: ltr;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+      sans-serif;
+    font-size: 16px;
+  }
+  
+  .login-body {
+    width: 25%;
+    padding: 50px;
+    margin: 0 auto -236px;
+    max-width: 450px;
+  }
+  
+  .login-body {
+    background: rgb(5, 5, 5);
+    background: rgba(5, 5, 5, 0.9);
+  }
+  
+  button {
+    background-color: red;
+    width: 330px;
+    padding: 18px;
+    color: white;
+    font-size: 16px;
+    direction: ltr;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+      sans-serif;
+    border-radius: 5px;
+  }
+  
+  label {
+    float: left;
+  }
+  
+  input {
+    width: 290px;
+    padding: 18px;
+    background-color: rgb(197, 196, 196);
+    font-size: 16px;
+    direction: ltr;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+      sans-serif;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    color: red;
+  }
+  
+  p {
+    font-size: 34px;
+  }
+  
+  .netflix-logo {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    font-size: 32px;
+    font-weight: bold;
+    color: #e50914;
+  }
+  
+  .n,
+  .e,
+  .t,
+  .f,
+  .l,
+  .i,
+  .x {
+    display: inline-block;
+    margin: 0 2px;
+  }
+  
